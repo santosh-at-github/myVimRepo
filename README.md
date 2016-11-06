@@ -1,2 +1,2 @@
 # myVimRepo
-Repository for files and configuration related to vim editor
+My First GitHub repository for files and configuration related to my vim editor.
